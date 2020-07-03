@@ -3,12 +3,12 @@
 gitbook build
 
 git checkout master
+git branch -d gh-pages
 
 git checkout -b gh-pages
 
 rm -r en
 rm -r zh
-rm -r images
 
 cp -R _book/* .
 
