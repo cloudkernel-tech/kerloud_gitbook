@@ -13,12 +13,12 @@ The recommended environment (well tested) is:
 
 The px4 firmware for Kerloud autopilots is hosted at our official Github repository, and it will be maintained by our team and upgraded with official px4 firmware in a stable manner. Currently the firmware version is based on V1.10.0, and users can clone the repository in terminal with:
 
-    git clone –recursive https://github.com/cloudkernel-tech/Firmware.git
+    git clone --recursive https://github.com/cloudkernel-tech/Firmware.git
     git checkout master_kerloud
 
 Users in mainland China can clone our official repository hosted in Gitee alternatively to avoid the slow network problem:
 
-    git clone –recursive https://gitee.com/cloudkernel-tech/Firmware.git
+    git clone --recursive https://gitee.com/cloudkernel-tech/Firmware.git
     git checkout master_kerloud
 
 **Toolchain setup**
