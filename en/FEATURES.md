@@ -21,7 +21,7 @@
 ## Specifications
 | Component | Specification |
 | :--: | :--: |
-| Main Processor |   STM32F427 Cortex M3, 2MB flash, 168 MHz |
+| Main Processor |   STM32F427 Cortex M4, 2MB flash, 168 MHz |
 | Coprocessor |  STM32F100 Cortex M3, 64KB flash, 24MHz |
 | Accelerometer |   ICM20602, ICM20689 |
 | Gyroscope |  ICM20602, ICM20689 |
