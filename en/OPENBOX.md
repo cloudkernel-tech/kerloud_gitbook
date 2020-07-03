@@ -1,6 +1,6 @@
 # Open the Box
 <p align="center">
-<img src ="../images/kerloud_pkgview.png"/>
+<img src ="../images/kerloud_pkgview.png" width= 640/>
 </p>
 
 The Kerloud mini package we provide includes the following items:

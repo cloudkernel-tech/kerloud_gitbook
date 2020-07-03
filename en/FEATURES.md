@@ -31,6 +31,6 @@
 | Supply Voltage |  Power port: 4.75V~5.5V, <br> USB port: 4.75V~5.25V, <br> default power module: 2~6S, <br> maximum sensing current 90A, <br> BEC: 5.3V, maximum continuous current 3A |
 | Operating Temperature | -40 ~ 85 degrees|
 | Enclosure| CNC Aluminium enclosure |
-| Dimension | 57mm*45mm*14.6mm |
+| Dimension | 57mm \* 45mm \* 14.6mm |
 |Weight |Kerloud Mini Autopilot: 40g  <br> Kerloud GPS: 30g |
 
