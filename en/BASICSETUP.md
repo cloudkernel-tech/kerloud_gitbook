@@ -2,8 +2,7 @@
 
 The Kerloud mini autopilot has been loaded with stable px4 firmware based on official px4 version V1.10.0 (still updating), and is ready to use for most users.
 
-The basic setup procedure can be referred at: https://dev.px4.io/master/en/setup/config_initial.html .
-Main steps are shown as follows, which can be easily conducted via [QGroundControl](http://qgroundcontrol.com/) software:
+The basic setup procedure can be referred at: <https://dev.px4.io/master/en/setup/config_initial.html>. Main steps are shown as follows, which can be easily conducted via [QGroundControl](http://qgroundcontrol.com/) software:
 
 **Airframe selection**
 

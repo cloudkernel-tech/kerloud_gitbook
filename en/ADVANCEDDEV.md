@@ -6,7 +6,7 @@ General instructions on how to develop px4 firmware are shown in the official de
 
 The recommended environment (well tested) is:
 
-- Ubuntu 18.04;
+- Ubuntu 18.04
 - ROS melodic with Gazebo 9
 
 **Firmware support**
@@ -36,7 +36,7 @@ Users in mainland China may face the troublesome network problem, hence we provi
 
 **Build and upload firmware**
 
-The firmware can be built for Kerloud autopilot via the make command:
+The firmware can be built for Kerloud Mini autopilot via the make command:
 
     make px4_fmu-v3_default
 
