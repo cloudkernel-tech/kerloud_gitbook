@@ -1,4 +1,4 @@
-# Open the Box
+# 开箱说明
 
 <p align="center">
 <img src ="../images/kerloud_pkgview.png" width= 640/>
