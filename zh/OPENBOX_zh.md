@@ -1,7 +1,7 @@
 # 开箱说明
 
 <p align="center">
-<img src ="../images/kerloud_pkgview.png" width= 640/>
+<img src ="../images/kerloud_pkgview.jpg"/>
 </p>
 
 我们提供的完整Kerloud Mini包装包含下述零配件：
