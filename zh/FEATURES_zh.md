@@ -25,9 +25,9 @@
 | 协处理器 |  STM32F100 Cortex M3, 64KB flash, 24MHz |
 | 加速度计 |   ICM20602, ICM20689 |
 | 陀螺仪 |  ICM20602, ICM20689 |
-| 磁感计 |  IST8310, QMC5883 |
+| 磁感计 |  IST8310 (内置), QMC5883（外置） |
 | 气压计 | ms5611 |
-| Kerloud GPS 模块 |  Ublox M8N GPS |
+| Kerloud GPS 模块 |  Ublox M8N GPS，外置磁感计QMC5883 |
 | 供电电压 |  Power port: 4.75V~5.5V, <br> USB port: 4.75V~5.25V, <br> 自带分电板: 2~6S, <br> 最大传感电流 90A, <br> BEC: 5.3V, 最大连续电流 3A |
 | 工作温度范围 | -40 ~ 85 度|
 | 外壳| CNC 铝制外壳 |

@@ -25,9 +25,9 @@
 | Coprocessor |  STM32F100 Cortex M3, 64KB flash, 24MHz |
 | Accelerometer |   ICM20602, ICM20689 |
 | Gyroscope |  ICM20602, ICM20689 |
-| Magnetometer |  IST8310, QMC5883 |
+| Magnetometer |  IST8310 (onboard), QMC5883 (external) |
 | Barometer | ms5611 |
-| Kerloud GPS Module |  Ublox M8N GPS |
+| Kerloud GPS Module |  Ublox M8N GPS, and external magnetometer QMC5883 |
 | Supply Voltage |  Power port: 4.75V~5.5V, <br> USB port: 4.75V~5.25V, <br> default power module: 2~6S, <br> maximum sensing current 90A, <br> BEC: 5.3V, maximum continuous current 3A |
 | Operating Temperature | -40 ~ 85 degrees|
 | Enclosure| CNC Aluminium enclosure |
