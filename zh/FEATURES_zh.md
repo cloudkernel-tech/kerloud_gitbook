@@ -1,5 +1,7 @@
 # 产品特性和指标
-
+<p align="center">
+<img src ="../images/kerloud_fullview_wGPS.png"/>
+</p>
 
 ## 产品特性：
 
