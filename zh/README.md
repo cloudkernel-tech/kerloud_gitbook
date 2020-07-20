@@ -16,5 +16,9 @@ Kerloud Mini飞控是一款稳定的小型飞控,用于支持无人机的自动�
 
 2. 公司提供部分无人机行业核心解决方案，如飞行控制器，无人机操作系统等
 
-我们的产品主页是<http://cloudkernel-tech.github.io>, 您也可以通过电子邮件：<cloudkerneltech@gmail.com> 联系到我们。
+我们的产品主页是<http://cloudkernel-tech.github.io>, 您可以通过电子邮件：<cloudkerneltech@gmail.com> 联系到我们．微信用户可以扫描下面的二维码关注我们的公众号：
+<p align="center">
+<img src ="../images/wechat_QR.jpg" width = 200 />
+</p>
+
 
