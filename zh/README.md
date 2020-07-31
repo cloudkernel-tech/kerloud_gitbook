@@ -21,4 +21,12 @@ Kerloud Mini飞控是一款稳定的小型飞控,用于支持无人机的自动�
 <img src ="../images/wechat_QR.jpg" width = 200 />
 </p>
 
+## 如何购买
+
+中国大陆用户可以前往我们官方淘宝店铺购买：
+
+<https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.3bb71debPVMsFV&ft=t&id=622263169337>
+
+其他地区用户可以咨询当地代理商或者发邮件给我们．
+
 
