@@ -17,7 +17,7 @@ Cloudkernel Technologies (Shenzhen) is a technology-driven company geared toward
 
 (2) Industry level UAV solutions, including autopilot hardware, flight control software and UAV application software suite.
 
-Our main webpage is: <http://cloudkernel-tech.github.io>, and you may contact us by dropping us an email: <cloudkerneltech@gmail.com>. Wechat users can scan the QR code below to follow our official account:
+Our main webpage is: <https://cloudkernel-tech.github.io>, and you may contact us by dropping us an email: <cloudkerneltech@gmail.com>. Wechat users can scan the QR code below to follow our official account:
 <p align="center">
 <img src ="../images/wechat_QR.jpg" width = 200 />
 </p>
