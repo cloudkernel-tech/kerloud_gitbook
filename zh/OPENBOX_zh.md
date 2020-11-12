@@ -1,6 +1,10 @@
 # 开箱说明
 
 <p align="center">
+<img src ="../images/Kerloudmini_resized.jpg"/>
+</p>
+
+<p align="center">
 <img src ="../images/kerloud_pkgview.jpg"/>
 </p>
 

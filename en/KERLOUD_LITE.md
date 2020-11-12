@@ -2,7 +2,7 @@
 
 The Kerloud Lite power module is a reliable power source provided by Cloudkernel Technologies (Shenzhen) Co.,Ltd for unmanned systems.
 Besides its capabilities to power up the flight controller, electrical speed controllers, and monitor the battery voltage and current, it also
-provide flexible power ports to enhance system integration and stability.
+provides flexible power ports to enhance system integration and stability.
 
 <p align="center">
 <img src ="../images/kerloud_lite.jpg" width = 500/>
@@ -30,7 +30,7 @@ The Kerloud Lite power module can support a wide range of common peripherals for
 
 **Notes:**
 
-(1) The default XT60 cable (12AWG) allows norminal 30A and maximum 60A current, and can be used for small current senarios only.
+(1) The default XT60 cable (12AWG) allows norminal 30A and maximum 60A current, and can be used for small current scenarios only.
 
 To support a maximum 160A continuous current, users have to change the cable and corresponding battery connectors. The recommended configuration is:
 

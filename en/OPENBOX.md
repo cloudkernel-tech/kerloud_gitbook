@@ -1,4 +1,9 @@
 # Open the Box
+
+<p align="center">
+<img src ="../images/Kerloudmini_resized.jpg"/>
+</p>
+
 <p align="center">
 <img src ="../images/kerloud_pkgview.jpg"/>
 </p>
