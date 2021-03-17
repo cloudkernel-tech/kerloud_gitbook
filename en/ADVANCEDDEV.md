@@ -21,6 +21,13 @@ Users in mainland China can clone our official repository hosted in Gitee altern
     git clone --recursive https://gitee.com/cloudkernel-tech/Firmware.git
     git checkout master_kerloud
 
+If submodules fail to be downloaded, one candidate solution is to modify the host file following instructions in <https://blog.csdn.net/qq_44621510/article/details/95251993>.
+Then submodules can be updated with commands:
+
+    cd Firmware
+    git submodule init
+    git submodule update --recursive
+
 **Toolchain setup**
 
 The toolchain setup can be done by following the official guide at:

@@ -22,6 +22,13 @@
     git clone --recursive https://gitee.com/cloudkernel-tech/Firmware.git
     git checkout master_kerloud
 
+如果有submodule子模块下载失败，用户可以考虑修改系统host文件，可参考<https://blog.csdn.net/qq_44621510/article/details/95251993>。
+之后子模块可以通过下述命令更新：
+
+    cd Firmware
+    git submodule init
+    git submodule update --recursive
+
 **开发组件安装**
 
 开发组件安装的过程可以在官方链接找到：
