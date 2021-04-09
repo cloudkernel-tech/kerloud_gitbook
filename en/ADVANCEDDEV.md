@@ -51,6 +51,13 @@ and it can be uploaded via:
 
     make px4_fmu-v3_default upload
 
+Users can also download the firmware for quick start from the link below:
+
+<https://pan.baidu.com/s/1ocMoEsS1x2c-RAJ9wfMtwA>
+
+code: bmqf
+
+
 **More Information**
 
 For more information on px4 usage users can visit:
