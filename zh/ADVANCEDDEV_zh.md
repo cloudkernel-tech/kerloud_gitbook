@@ -54,6 +54,10 @@
 
     make px4_fmu-v3_default upload
 
+用户也可以直接从下述百度云链接下载我们编译好的固件，
+
+链接: <https://pan.baidu.com/s/1ocMoEsS1x2c-RAJ9wfMtwA> 提取码: bmqf
+
 
 ### 常见问题
 
@@ -72,7 +76,7 @@
 对于其他问题，用户可以向我们的售后寻求支持。
 
 
-**更多信息**
+### 更多信息
 
 关于更多px4的使用方法，用户可以参考
 <https://docs.px4.io>, and <https://dev.px4.io>
