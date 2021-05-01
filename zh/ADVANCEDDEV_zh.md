@@ -1,6 +1,6 @@
 # 高级开发
 
-**推荐开发环境**
+## 推荐开发环境
 
 用户可以在官方网站上找到大部分的详细开发指导：
  <https://dev.px4.io/master/en/index.html>
@@ -10,7 +10,9 @@
 - Ubuntu 18.04
 - ROS melodic with Gazebo 9
 
-**固件支持**
+## 固件支持
+
+### 固件下载
 
 针对Kerloud飞控固件在我们的官方Github库中，它会被我们长期维护并持续和px4固件更新．现在的版本是V1.10.0，用户可以通过下述命令获得固件源码：
 
@@ -29,7 +31,7 @@
     git submodule init
     git submodule update --recursive
 
-**开发组件安装**
+### 开发组件安装
 
 开发组件安装的过程可以在官方链接找到：
 <https://dev.px4.io/master/en/setup/dev_env_linux_ubuntu.html>
@@ -42,7 +44,7 @@
     bash ubuntu.sh
     bash ubuntu_sim_ros_melodic.sh
 
-**编译和加载固件**
+### 编译和加载固件
 
 针对Kerloud Mini飞控的固件可以通过make命令编译：
 
@@ -51,6 +53,24 @@
 可以通过下述命令上传到飞控中：
 
     make px4_fmu-v3_default upload
+
+
+### 常见问题
+
+如果用户通过上述操作遇到编译失败问题，可以参考下述原因排查：
+
+* (i) 确认前述的两个脚本程序成功执行完成，如果没有，请参考终端中的错误信息提示相应解决，通常可以通过google或者bing搜索轻松找到解决方法。
+
+* (ii) 确认GCC编译器的路径已经成功设置成环境变量，通常被设置在~/.bashrc或~/.profile中，相应形式为：
+
+        export PATH=~/gcc-arm-none-eabi-7-2017-q4-major/bin:$PATH
+
+    注意GCC编译器的版本在快速升级，比2017Q4更新的版本可能会导致部分兼容性问题。
+
+* (iii) 如果您安装了conda开发环境，建议您暂时关闭它，因为它会引发部分python软件的依赖项问题。您可以通过注释掉~/.bashrc中关于conda初始化部分的脚本完成。
+
+对于其他问题，用户可以向我们的售后寻求支持。
+
 
 **更多信息**
 
