@@ -4,7 +4,7 @@ The Kerloud mini autopilot has been loaded with stable px4 firmware based on off
 
 The basic setup procedure can be referred at: <https://dev.px4.io/master/en/setup/config_initial.html>. Main steps are shown as follows, which can be easily conducted via [QGroundControl](http://qgroundcontrol.com/) software:
 
-## Airframe selection
+## Airframe Selection
 
 <p align="center">
 <img src ="../images/airframe_setting.png"/>
@@ -12,7 +12,7 @@ The basic setup procedure can be referred at: <https://dev.px4.io/master/en/setu
 
 Users can select various candidate airframes, such as multirotors, fixed-wing, rovers, and other configurations. Simply click “Apply and Restart” in the upper right corner will reboot the autopilot with default parameter settings.
 
-## Sensor calibration
+## Sensor Calibration
 
 <p align="center">
 <img src ="../images/sensor_calib.png"/>
@@ -26,7 +26,7 @@ Users should keep the autopilot absolutely static during gyroscope calibration, 
 
 Accelerometers can be placed on flat table surfaces or vertical walls for calibration. Hand-hold calibration is not recommended.
 
-## Radio calibration
+## Radio Calibration
 
 <p align="center">
 <img src ="../images/radio_setting.png"/>

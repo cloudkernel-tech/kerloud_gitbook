@@ -11,7 +11,7 @@ The recommended environment (well tested) is:
 
 ## Firmware Support
 
-### Download Firmware
+### Firmware Download
 
 The px4 firmware for Kerloud autopilots is hosted at our official Github repository, and it will be maintained by our team and upgraded with official px4 firmware in a stable manner. Currently the firmware version is based on V1.10.0, and users can clone the repository in terminal with:
 
