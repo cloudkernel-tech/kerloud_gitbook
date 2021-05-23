@@ -1,6 +1,10 @@
 # Features and Specifications
 <p align="center">
-<img src ="../images/kerloud_fullview_wGPS.png"/>
+<img src ="../images/kerloud_interface_p1.png"/>
+</p>
+
+<p align="center">
+<img src ="../images/kerloud_interface_p2.png"/>
 </p>
 
 ## Key Features
